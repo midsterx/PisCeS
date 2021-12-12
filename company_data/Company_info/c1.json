@@ -1,0 +1,51 @@
+{
+    "Company": "A",
+    "Postal Address": "B",
+    "About the Company": "C",
+    "Company Sector": "D",
+    "Mode of Selection": [
+        "E"
+    ],
+    "Interview Process": "F",
+    "Job Description": "",
+    "Disciplines": {
+        "BE/BTech": [
+            "G"
+        ],
+        "MTech": [
+            "H"
+        ],
+        "MCA": [
+            ""
+        ]
+    },
+    "Criteria": {
+        "10th": "I",
+        "12th": "J",
+        "BE": {
+            "CGPA": "K",
+            "Percentage": "L"
+        },
+        "MTech/MCA": {
+            "CGPA": "M",
+            "Percentage": "N"
+        }
+    },
+    "Position": "O",
+    "Location": "P",
+    "Job Status": [
+        "Q"
+    ],
+    "Compensation": {
+        "Full Time": {
+            "Base Pay": "R",
+            "Total CTC": ""
+        },
+        "Internship": "S"
+    },
+    "Bond/Service agreement details": "",
+    "Website": "T",
+    "Registration Deadline": "1823-11-21",
+    "Test Date": "11/27/1823",
+    "Interview Date": "1823-11-28"
+}

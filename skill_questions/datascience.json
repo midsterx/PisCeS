@@ -1,0 +1,502 @@
+[
+    {
+        "question": "which of the following is important language for Datascience?",
+        "answers": {
+            "a": "Java",
+            "b": "Ruby",
+            "c": "R",
+            "d": "Python"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "which of the following approach should be used to ask Data Analysis question?",
+        "answers": {
+            "a": "Data cleansing",
+            "b": "Data integration",
+            "c": "Data replication",
+            "d": "All of the above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "which is the correct statement?",
+        "answers": {
+            "a": "Data mining",
+            "b": "Big Data",
+            "c": "Data wrangling",
+            "d": "Machine Learning"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Which of the following uses data on some object to predict values for other object",
+        "answers": {
+            "a": "Fast",
+            "b": "Accuracy",
+            "c": "Scalable",
+            "d": "All of the Mentioned"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "which of the following is common goal of statistical modelling?",
+        "answers": {
+            "a": "find only one solution for particular problem",
+            "b": "find out the question which is to be answered",
+            "c": "find out answer from dataset without asking question",
+            "d": "none of the mentioned"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "which of the following model is usually gold standard for data analysis? ",
+        "answers": {
+            "a": "Inference",
+            "b": "Summarizing",
+            "c": "Subsetting",
+            "d": "None of th above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Which of the following model include a backwards elimination feature selection routine?",
+        "answers": {
+            "a": "Inferential",
+            "b": "Exploratory",
+            "c": "Predictive",
+            "d": "None of the above"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "which of the following is a categorical outcome?",
+        "answers": {
+            "a": "Inferential",
+            "b": "Descriptive",
+            "c": "Causal",
+            "d": "All of the above"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "which of the following can be used to impute data sets based only on information in the training set?",
+        "answers": {
+            "a": "Inferential",
+            "b": "Explorative",
+            "c": "Causal",
+            "d": "Mechanistic"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "which of the following analysis is usually modeled by deterministic set of equations?",
+        "answers": {
+            "a": "MCV",
+            "b": "MARS",
+            "c": "MCRS",
+            "d": "All of the mentioned"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "which of the following analysis are incredibly hard to implement?",
+        "answers": {
+            "a": "post process",
+            "b": "pre process",
+            "c": "process",
+            "d": "All the above"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "Which of the following is characteristic of best machine learning method?",
+        "answers": {
+            "a": "Predictive",
+            "b": "causal",
+            "c": "Mechanistic",
+            "d": "All of the above"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "which of the following characteristic of big data is relatively more concerned to data science?",
+        "answers": {
+            "a": "Raw data is original source of data",
+            "b": "preprocessed data is original source of data",
+            "c": "Raw data is the data obtained after processing steps",
+            "d": "None of the above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "which of the following step is performed by data scientist after acquiring the data?",
+        "answers": {
+            "a": "RMSE",
+            "b": "RSsquad",
+            "c": "Accuracy",
+            "d": "All of the above"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "which of the following focuses on the discovery of(previously) unknown properties on the data?",
+        "answers": {
+            "a": "velocity",
+            "b": "variety",
+            "c": "volume",
+            "d": "none of the above"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "How much percentage of the interesting information can be obtained by using SQL?",
+        "answers": {
+            "a": "80",
+            "b": "70",
+            "c": "40",
+            "d": "50"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "The un-normalized relation containing all attributes that exist in database is?",
+        "answers": {
+            "a": "actual relation",
+            "b": "transparent relation",
+            "c": "verified relation",
+            "d": "universal relation"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Enrichment means?",
+        "answers": {
+            "a": "adding external data",
+            "b": "deleting data",
+            "c": "selecting data",
+            "d": "cleaning data"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "The system that can be used without knowledge of internal operation?",
+        "answers": {
+            "a": "black box",
+            "b": "white box",
+            "c": "case based learning",
+            "d": "bias"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "The distance between two points that is calculated using Pythagoras theorem is",
+        "answers": {
+            "a": "cartesian distance",
+            "b": "eucleian distance",
+            "c": "extensible distance",
+            "d": "heuristic distance"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "Which of the following is closely related to statistical significance and transperancy?",
+        "answers": {
+            "a": "Classification accuracy",
+            "b": "Transperancy",
+            "c": "Statistical significance",
+            "d": "Search Complexity"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "what is a creative activity that has to be performed repeatedly in order to get best results",
+        "answers": {
+            "a": "cleaning",
+            "b": "Reporting",
+            "c": "Coding",
+            "d": "Selection"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "The decision support system is used only for",
+        "answers": {
+            "a": "cleaning",
+            "b": "coding",
+            "c": "selecting",
+            "d": "queries"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "deep knowledge can be found only by using",
+        "answers": {
+            "a": "clues",
+            "b": "OLAP",
+            "c": "SQL",
+            "d": "algorithm"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Foriegn key constraints are also referred as",
+        "answers": {
+            "a": "consistancy constraints",
+            "b": "referential integrity",
+            "c": "conditional integrity",
+            "d": "domain constraints"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "What are the two important qualities of good learning algorithm",
+        "answers": {
+            "a": "Consistent, complete",
+            "b": "Information content, complex",
+            "c": "Complete,complex",
+            "d": "Transperant, complex"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Metadata describes",
+        "answers": {
+            "a": "contents of database",
+            "b": "structure of contents of database",
+            "c": "sructure of database",
+            "d": "database itself"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "what itself have become a production  factor of importance",
+        "answers": {
+            "a": "data",
+            "b": "information",
+            "c": "program",
+            "d": "algorithm"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "The partition of overall data warehouse is",
+        "answers": {
+            "a": "database",
+            "b": "data cube",
+            "c": "data mart",
+            "d": "operational data"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "DSS stands for",
+        "answers": {
+            "a": "Deciding support system",
+            "b": "Decision support system",
+            "c": "Decision support system",
+            "d": "Decision system of system"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "which one example of case based learning",
+        "answers": {
+            "a": "Decision tress",
+            "b": "neural networks",
+            "c": "Genetic algorithm",
+            "d": "K-nearest neighbor"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Redundancy referes to the elements  of a message that can be derived from other parts of",
+        "answers": {
+            "a": "different message",
+            "b": "irrelevent message",
+            "c": "same message",
+            "d": "complete message"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Data mining algorithms require",
+        "answers": {
+            "a": "efficient sampling method",
+            "b": "storage of intermediate results",
+            "c": "none of the above",
+            "d": "all the above"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "The next stage to data selection in KDD process",
+        "answers": {
+            "a": "enrichment",
+            "b": "coding",
+            "c": "cleaning",
+            "d": "reporting"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "what is the first stage in genetic algorithm",
+        "answers": {
+            "a": "evaluation of each string",
+            "b": "selection of string ",
+            "c": "creation of population of string",
+            "d": "genetic manupulation"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " What happens when we introduce more variables to a linear regression model?",
+        "answers": {
+            "a": "The r squared value may increase or remain constant, the adjusted r squared may increase or decrease",
+            "b": "The r squared may increase or decrease while the adjusted r squared always increases",
+            "c": "Both r square and adjusted r square always increase on the introduction of new variables in the model",
+            "d": "Both might increase or decrease depending on the variables introduced"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "In univariate linear least squares regression, relationship between correlation coefficient and coefficient of determination is ______ ?",
+        "answers": {
+            "a": "Both are unrelated False",
+            "b": "The coefficient of determination is the coefficient of correlation squared True",
+            "c": "The coefficient of determination is the square root of the coefficient of correlation False",
+            "d": "Both are same F"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "What is the relationship between significance level and confidence level?",
+        "answers": {
+            "a": " Significance level = Confidence level",
+            "b": "Significance level = 1- Confidence level",
+            "c": "Significance level = 1/Confidence level",
+            "d": "Significance level = sqrt (1 \u00e2\u20ac\u201c Confidence level)"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "The line described by the linear regression equation (OLS) attempts to ____ ?",
+        "answers": {
+            "a": "Pass through as many points as possible",
+            "b": "Pass through as few points as possible",
+            "c": "Minimize the number of points it touches",
+            "d": " Minimize the squared distance from the points"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "What is the value of t-statistic?",
+        "answers": {
+            "a": "3.191",
+            "b": "3.395",
+            "c": "Cannot be determined",
+            "d": "None of the above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Which of the following statement is correct?",
+        "answers": {
+            "a": "The doctor has a valid evidence that dieting reduces blood sugar level.",
+            "b": "The doctor does not have enough evidence that dieting reduces blood sugar level",
+            "c": "If the doctor makes all future patients diet in a similar way, the mean blood pressure will fall below 160",
+            "d": "None of the above"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "What is the probability of getting a mean of 175 or less after all the patients start dieting?",
+        "answers": {
+            "a": "20%",
+            "b": "25%",
+            "c": "15%",
+            "d": "12%"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the standard error of the mean?",
+        "answers": {
+            "a": "9",
+            "b": "6",
+            "c": "7.5",
+            "d": "18"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "A researcher concludes from his analysis that a placebo cures AIDS. What type of error is he making?",
+        "answers": {
+            "a": "Type 1 error",
+            "b": "Type 2 error",
+            "c": "None",
+            "d": "Cannot be determined"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "After performing the Z-test, what can we conclude ____ ?",
+        "answers": {
+            "a": "Listening to music does not improve memory",
+            "b": "Listening to music significantly improves memory at p",
+            "c": "The information is insufficient for any conclusion",
+            "d": "None"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "What is the null hypothesis in this case?",
+        "answers": {
+            "a": "Listening to music while studying will not impact memory",
+            "b": "Listening to music while studying will may worsen memory",
+            "c": "Listening to music while studying may improve memory",
+            "d": "Listening to music while studying will not improve memory but can make it worse"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "What would be the critical values of Z for 98% confidence interval for a two-tailed test ?",
+        "answers": {
+            "a": "+/- 2.33",
+            "b": "+/- 1.96",
+            "c": "+/- 1.64",
+            "d": "+/- 2.55"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": " If the variance of a dataset is correctly computed with the formula using (n \u00e2\u20ac\u201c 1) in the denominator, which of the following option is true?",
+        "answers": {
+            "a": "Dataset is a sample",
+            "b": "Dataset is a population",
+            "c": "Dataset is from a census",
+            "d": "None"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "If a positively skewed distribution has a median of 50, which of the following statement is true?",
+        "answers": {
+            "a": "Mean is greater than 50",
+            "b": "Mode is less than 50",
+            "c": "All the above",
+            "d": "None"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Which of the following measures of central tendency will always change if a single value in the data changes?",
+        "answers": {
+            "a": "Mean",
+            "b": "median",
+            "c": "All the above",
+            "d": "None"
+        },
+        "correctAnswer": "a"
+    }
+]

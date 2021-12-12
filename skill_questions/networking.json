@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Computer Network is",
+        "answers": {
+            "a": "Collection of hardware components and computers",
+            "b": "Interconnected by communication channels",
+            "c": " Sharing of resources and information",
+            "d": "All of the Above"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": " Protocols are?",
+        "answers": {
+            "a": "Agreements on how communication components and DTE's are to communicate",
+            "b": "Logical communication channels for transferring data",
+            "c": "Physical communication channels sued for transferring data",
+            "d": "None of above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": " Two devices are in network if",
+        "answers": {
+            "a": " a process in one device is able to exchange information with a process in another device",
+            "b": "a process is running on both devices",
+            "c": "PIDs of the processes running of different devices are same",
+            "d": "none of the mentioned"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "what is a Firewall in Computer Network?",
+        "answers": {
+            "a": "The physical boundary of Network",
+            "b": "An operating System of Computer Network",
+            "c": "A system designed to prevent unauthorized access",
+            "d": " A web browsing Software"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "The IETF standards documents are called",
+        "answers": {
+            "a": "RFC",
+            "b": "RCF",
+            "c": "ID",
+            "d": "None of the mentioned"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Which data communication method is used to transmit the data over a serial communication link?",
+        "answers": {
+            "a": "Simplex",
+            "b": "Half-duplex",
+            "c": "Full duplex",
+            "d": " All of above"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " Each IP packet must contain",
+        "answers": {
+            "a": "Only Source address",
+            "b": "Only Destination address",
+            "c": "Source and Destination address",
+            "d": "Source or Destination address"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " What is the minimum header size of an IP packet?",
+        "answers": {
+            "a": "16 bytes",
+            "b": "10 bytes",
+            "c": "20 bytes",
+            "d": "32 bytes"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " Routing tables of a router keeps track of",
+        "answers": {
+            "a": "MAC Address Assignments",
+            "b": "Port Assignments to network devices",
+            "c": " Distribute IP address to network devices",
+            "d": "Routes to use for forwarding data to its destination"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Which of the following is not the External Security Threats?",
+        "answers": {
+            "a": " Front-door Threats",
+            "b": "Back-door Threats",
+            "c": "Underground Threat",
+            "d": "Denial of Service (DoS)"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " What is the IP Address range of APIPA?",
+        "answers": {
+            "a": "169.254.0.1 to 169.254.0.254",
+            "b": "169.254.0.1 to 169.254.0.255",
+            "c": "169.254.0.1 to 169.254.255.254",
+            "d": "169.254.0.1 to 169.254.255.254"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " Which of the following is not the possible ways of data exchange?",
+        "answers": {
+            "a": "Simplex",
+            "b": "Multiplex",
+            "c": "Half-duplex",
+            "d": "Full-duplex"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "The management of data flow between computers or devices or between nodes in a network is called",
+        "answers": {
+            "a": "Flow control",
+            "b": "Data Control",
+            "c": "Data Management",
+            "d": "Flow Management"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What does the port number in a TCP connection specify?",
+        "answers": {
+            "a": "It specifies the communication process on the two end systems",
+            "b": "It specifies the quality of the data & connection",
+            "c": " It specify the size of data",
+            "d": "All of the above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the purpose of the PSH flag in the TCP header?",
+        "answers": {
+            "a": "Typically used to indicate end of message",
+            "b": "Typically used to indicate beginning of message",
+            "c": " Typically used to push the message",
+            "d": " Typically used to indicate stop the message"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": " Which of the following protocol is/are defined in Transport layer?",
+        "answers": {
+            "a": "FTP",
+            "b": "TCP",
+            "c": "UDP",
+            "d": "B & C"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": " The meaning of Straight-through Cable is",
+        "answers": {
+            "a": "Four wire pairs connect to the same pin on each end",
+            "b": "The cable Which Directly connects Computer to Computer",
+            "c": " Four wire pairs not twisted with each other",
+            "d": " The cable which is not twisted"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the size of MAC Address?",
+        "answers": {
+            "a": "16-bits",
+            "b": "32-bits",
+            "c": "48-bits",
+            "d": "64-bits"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Repeater operates in which layer of the OSI model?",
+        "answers": {
+            "a": "Physical layer",
+            "b": "Data link layer",
+            "c": "Network layer",
+            "d": "Transport layer"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": " Which of the following layer of OSI model also called end-to-end layer?",
+        "answers": {
+            "a": "Presentation layer",
+            "b": "Network layer",
+            "c": "Session layer",
+            "d": "Transport layer"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": " Router operates in which layer of OSI Reference Model?",
+        "answers": {
+            "a": "Layer 1 (Physical Layer)",
+            "b": " Layer 3 (Network Layer)",
+            "c": "Layer 4 (Transport Layer)",
+            "d": "Layer 7 (Application Layer)"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "ADSL is the abbreviation of",
+        "answers": {
+            "a": "Asymmetric Dual Subscriber Line",
+            "b": "Asymmetric Digital System Line",
+            "c": "Asymmetric Dual System Line",
+            "d": "Asymmetric Digital Subscriber Line"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": " How many layers does OSI Reference Model has?",
+        "answers": {
+            "a": "4",
+            "b": "5",
+            "c": "6",
+            "d": "7"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Bridge works in which layer of the OSI model?",
+        "answers": {
+            "a": "Appliation layer",
+            "b": "Transport layer",
+            "c": " Network layer",
+            "d": "Datalink layer"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Why IP Protocol is considered as unreliable?",
+        "answers": {
+            "a": "A packet may be lost",
+            "b": " Packets may arrive out of order",
+            "c": "Duplicate packets may be generated",
+            "d": "All of the above"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": " What is the benefit of the Networking?",
+        "answers": {
+            "a": "File Sharing",
+            "b": "Easier access to Resources",
+            "c": "Easier Backups",
+            "d": " All of the Above"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Which of the following is not the Networking Devices?",
+        "answers": {
+            "a": "Gateways",
+            "b": " Linux",
+            "c": "Routers",
+            "d": "Firewalls"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "What is the maximum header size of an IP packet?",
+        "answers": {
+            "a": "32 bytes",
+            "b": "64 bytes",
+            "c": "30 bytes",
+            "d": "60 bytes"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Which of the following is correct in VLSM?",
+        "answers": {
+            "a": "Can have subnets of different sizes",
+            "b": "Subnets must be in same size",
+            "c": "No required of subnet",
+            "d": "All of above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "DHCP Server provides _____ to the client.",
+        "answers": {
+            "a": "Protocol",
+            "b": "IP Address",
+            "c": "MAC Address",
+            "d": " Network Address"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "What is the address size of IPv6 ?",
+        "answers": {
+            "a": " 32 bit",
+            "b": "64 bit",
+            "c": "128 bit",
+            "d": " 256 bit"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "What is the size of Network bits & Host bits of Class A of IP address?",
+        "answers": {
+            "a": " Network bits 7, Host bits 24",
+            "b": "Network bits 8, Host bits 24",
+            "c": "Network bits 7, Host bits 23",
+            "d": "Network bits 8, Host bits 23"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": " What is the full form of RAID ?",
+        "answers": {
+            "a": " Redundant Array of Independent Disks",
+            "b": "Redundant Array of Important Disks",
+            "c": "Random Access of Independent Disks",
+            "d": "Random Access of Important Disks"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What do you mean by broadcasting in Networking?",
+        "answers": {
+            "a": "It means addressing a packet to all machine",
+            "b": "It means addressing a packet to some machine",
+            "c": "It means addressing a packet to a particular machine",
+            "d": " It means addressing a packet to except a particular machine"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the size of Source and Destination IP address in IP header?",
+        "answers": {
+            "a": "4 bits",
+            "b": "8 bits",
+            "c": " 16 bits",
+            "d": "32 bits"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "What is the typical range of Ephemeral ports?",
+        "answers": {
+            "a": "1 to 80",
+            "b": "1 to 1024",
+            "c": "80 to 8080",
+            "d": " 1024 to 65535"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "A set of rules that govern all aspects of information communication is called",
+        "answers": {
+            "a": "Server",
+            "b": "Internet",
+            "c": " Protocol",
+            "d": "OSI Model"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " Controlling access to a network by analyzing the incoming and outgoing packets is called",
+        "answers": {
+            "a": "IP Filtering",
+            "b": "Data Filtering",
+            "c": "Packet Filtering",
+            "d": " Firewall Filtering"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "DHCP is the abbreviation of",
+        "answers": {
+            "a": "Dynamic Host Control Protocol",
+            "b": "Dynamic Host Configuration Protocol",
+            "c": "Dynamic Hyper Control Protocol",
+            "d": "Dynamic Hyper Configuration Protocol"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "What is the use of Bridge in Network?",
+        "answers": {
+            "a": " to connect LANs",
+            "b": "to separate LANs",
+            "c": "to control Network Speed",
+            "d": "All of the above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": " Network congestion occurs",
+        "answers": {
+            "a": "in case of traffic overloading",
+            "b": "when a system terminates",
+            "c": "when connection between two nodes terminates",
+            "d": "none of the mentioned"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the meaning of Bandwidth in Network?",
+        "answers": {
+            "a": "Transmission capacity of a communication channels",
+            "b": " Connected Computers in the Network",
+            "c": "Class of IP used in Network",
+            "d": "None of Above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Which of the following is correct regarding Class B Address of IP address",
+        "answers": {
+            "a": " Network bit \u00ef\u00bf\u00bd 14, Host bit \u00ef\u00bf\u00bd 16",
+            "b": "Network bit \u00ef\u00bf\u00bd 16, Host bit \u00ef\u00bf\u00bd 14",
+            "c": "Network bit \u00ef\u00bf\u00bd 18, Host bit \u00ef\u00bf\u00bd 16",
+            "d": "Network bit \u00ef\u00bf\u00bd 12, Host bit \u00ef\u00bf\u00bd 14"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": " ............provides a connection-oriented reliable service for sending messages",
+        "answers": {
+            "a": "TCP",
+            "b": "IP",
+            "c": "UDP",
+            "d": "All of the above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": " What does Router do in a network?",
+        "answers": {
+            "a": "Forwards a packet to all outgoing links",
+            "b": " Forwards a packet to the next free outgoing link",
+            "c": " Determines on which outing link a packet is to be forwarded",
+            "d": "Forwards a packet to all outgoing links except the originated link"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " What is the use of Ping command?",
+        "answers": {
+            "a": "To test a device on the network is reachable",
+            "b": "To test a hard disk fault",
+            "c": "To test a bug in a Application",
+            "d": "To test a Pinter Quality"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": " What is the size of Host bits in Class B of IP address?",
+        "answers": {
+            "a": "04",
+            "b": "08",
+            "c": "16",
+            "d": "32"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Which of the following is correct in CIDR?",
+        "answers": {
+            "a": " Class A includes Class B network",
+            "b": "There are only two networks",
+            "c": "There are high & low class network",
+            "d": "There is no concept of class A, B, C networks"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": " The processes on each machine that communicate at a given layer are called",
+        "answers": {
+            "a": "UDP process",
+            "b": "Intranet process",
+            "c": " Server technology",
+            "d": "Peer-peer process"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Which of the following layer is not network support layer?",
+        "answers": {
+            "a": "Transport Layer",
+            "b": "Network Layers",
+            "c": "Data link Layer",
+            "d": "Physical Layer"
+        },
+        "correctAnswer": "a"
+    }
+]

@@ -1,0 +1,1 @@
+{"name":"X","srn":"Y","gender":"Z","cgpa":1,"tenth":2,"twelfth":3,"year_of_pass":4,"highest_qualification":"A","college":"B","department":"C","password":"D"}

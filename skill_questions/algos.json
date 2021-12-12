@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Where is linear searching used?",
+        "answers": {
+            "a": "When the list has only a few elements",
+            "b": "When performing a single search in an unordered list",
+            "c": "Used all the time",
+            "d": "When the list has only a few elements and When performing a single search in an unordered list"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "What is the best case for linear search?",
+        "answers": {
+            "a": "O(nlogn)",
+            "b": " O(logn)",
+            "c": " O(n)",
+            "d": "O(1)"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "What is the best case and worst case complexity of ordered linear search?",
+        "answers": {
+            "a": "O(nlogn), O(logn)",
+            "b": "O(logn), O(nlogn)",
+            "c": "O(n), O(1)",
+            "d": "O(1), O(n)"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": " Which of the following is a disadvantage of linear search?",
+        "answers": {
+            "a": "Requires more space",
+            "b": "Greater time complexities compared to other searching algorithms",
+            "c": "Not easy to understand",
+            "d": "Not easy to implement"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "Is there any difference in the speed of execution between linear serach(recursive) vs linear search(lterative)?",
+        "answers": {
+            "a": "Both execute at same speed",
+            "b": "Linear search(recursive) is faster",
+            "c": "Linear search(Iterative) is faster",
+            "d": "Cant be said"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Is the space consumed by the linear search(recursive) and linear search(iterative) same?",
+        "answers": {
+            "a": " No, recursive algorithm consumes more space",
+            "b": "No, recursive algorithm consumes less space",
+            "c": "Yes",
+            "d": " Nothing can be said"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the worst case runtime of linear search(recursive) algorithm?",
+        "answers": {
+            "a": "O(n)",
+            "b": "O(logn)",
+            "c": " O(n2)",
+            "d": "O(nx)"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Linear search(recursive) algorithm used in _____________",
+        "answers": {
+            "a": "When the size of the dataset is low",
+            "b": "When the size of the dataset is large",
+            "c": "When the dataset is unordered",
+            "d": " Never used"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "The array is as follows: 1,2,3,6,8,10. At what time the element 6 is found? (By using linear search(recursive) algorithm)",
+        "answers": {
+            "a": "4th call",
+            "b": "3th call",
+            "c": "5th call",
+            "d": "6th call"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Can linear search recursive algorithm and binary search recursive algorithm be performed on an unordered list?",
+        "answers": {
+            "a": "Binary search can\u00e2\u20ac\u2122t be used",
+            "b": " Linear search can\u00e2\u20ac\u2122t be used",
+            "c": "Both cannot be used",
+            "d": "Both can be used"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the recurrence relation for the linear search recursive algorithm?",
+        "answers": {
+            "a": "T(n-2)+c",
+            "b": " 2T(n-1)+c",
+            "c": "T(n-1)+c",
+            "d": "T(n+1)+c"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " What is the time complexity of uniform binary search",
+        "answers": {
+            "a": " O(nlogn)",
+            "b": "O(logn)",
+            "c": " O(n)",
+            "d": "O(n2)"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "Given, arr = {1,3,5,6,7,9,14,15,17,19} key = 17 and delta = {5,3,1,0} How many key comparisons are made?(exclude the comparison used to decide the left or right sub array)",
+        "answers": {
+            "a": "4",
+            "b": "3",
+            "c": "5",
+            "d": "6"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "How can Jump Search be improved?",
+        "answers": {
+            "a": " Start searching from the end",
+            "b": " Begin from the kth item, where k is the step size",
+            "c": "Cannot be improved",
+            "d": "Step size should be other than sqrt(n)"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "Which of the following false about Jump Search?",
+        "answers": {
+            "a": "Jump Search is better than Linear Search",
+            "b": "Useful when jumping back is more costly than jumping forward",
+            "c": " Jump Search is worse than Binary Searc",
+            "d": "Jump search starts from the index 0 even though specified index is k"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "What is an external sorting algorithm?",
+        "answers": {
+            "a": "Algorithm that uses tape or disk during the sort ",
+            "b": " Algorithm that uses main memory during the sort",
+            "c": "Algorithm that involves swapping",
+            "d": " Algorithm that are considered \u00e2\u20ac\u02dcin place\u00e2\u20ac\u2122"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is an internal sorting algorithm?",
+        "answers": {
+            "a": "Algorithm that uses tape or disk during the sort",
+            "b": "Algorithm that uses main memory during the sort",
+            "c": "Algorithm that involves swapping",
+            "d": "Algorithm that are considered \u00e2\u20ac\u02dcin place\u00e2\u20ac\u2122"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "What is the worst case complexity of bubble sort?",
+        "answers": {
+            "a": "O(nlogn)",
+            "b": "O(logn)",
+            "c": "O(n)",
+            "d": "O(n2)"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": " What is the average case complexity of bubble sort?",
+        "answers": {
+            "a": "O(nlogn)",
+            "b": "O(logn)",
+            "c": "O(n)",
+            "d": "O(n2)"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Which of the following is not an advantage of optimised bubble sort over other sorting techniques in case of sorted elements?",
+        "answers": {
+            "a": "It is faster",
+            "b": " Consumes less memory",
+            "c": "Detects whether the input is already sorted",
+            "d": "Consumes less time"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "The given array is arr = {1, 2, 4, 3}. Bubble sort is used to sort the array elements. How many iterations will be done to sort the array?",
+        "answers": {
+            "a": "4",
+            "b": "2",
+            "c": "1",
+            "d": "0"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the best case efficiency of bubble sort in the improvised version?",
+        "answers": {
+            "a": "O(nlogn)",
+            "b": "O(logn)",
+            "c": "O(n)",
+            "d": "O(n2)"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "The given array is arr = {1,2,4,3}. Bubble sort is used to sort the array elements. How many iterations will be done to sort the array with improvised version?",
+        "answers": {
+            "a": "4",
+            "b": "2",
+            "c": "1",
+            "d": "0"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": " Merge sort uses which of the following technique to implement sorting?",
+        "answers": {
+            "a": "backtracking",
+            "b": " greedy algorithm",
+            "c": "divide and conquer",
+            "d": "dynamic programming"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": " What is the average case time complexity of merge sort?",
+        "answers": {
+            "a": " O(n log n)",
+            "b": "O(n2)",
+            "c": "O(n2 log n)",
+            "d": " O(n log n2)"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the auxiliary space complexity of merge sort?",
+        "answers": {
+            "a": "O(nlogn)",
+            "b": " O(logn)",
+            "c": " O(n)",
+            "d": "O(1)"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Merge sort can be implemented using O(1) auxiliary space.",
+        "answers": {
+            "a": "true",
+            "b": "false",
+            "c": "cant be determinde",
+            "d": "none"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Which of the following is not in place sorting algorithm?",
+        "answers": {
+            "a": " merge sort",
+            "b": "quick sort",
+            "c": "heap sort",
+            "d": " insertion sort"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Which of the following is not a stable sorting algorithm?",
+        "answers": {
+            "a": " merge sort",
+            "b": "quick sort",
+            "c": "heap sort",
+            "d": " insertion sort"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Which is the most efficient sorting function considering the worst case scenario?",
+        "answers": {
+            "a": " merge sort",
+            "b": "quick sort",
+            "c": "heap sort",
+            "d": " insertion sort"
+        },
+        "correctAnswer": "a"
+    }
+]
